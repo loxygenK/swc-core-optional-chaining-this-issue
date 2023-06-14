@@ -1,0 +1,17 @@
+{
+  "name": "swc-core-optional-chaining-this-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run:main": "node main.js",
+    "run:input": "node input.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swc/core": "^1.3.63"
+  }
+}
